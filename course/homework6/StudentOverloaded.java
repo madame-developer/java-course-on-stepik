@@ -40,5 +40,4 @@ class StudentOverloadedTest {
         StudentOverloaded student3 = new StudentOverloaded();
         System.out.println(student3.averageMarkEcomomic);
     }
-
 }
